@@ -1,3 +1,4 @@
 .idea/
 *.iml
 target/
+git remote add origin https://github.com/OlegVasulchyk/Autimation_course_100322_Vasylchuk.git
